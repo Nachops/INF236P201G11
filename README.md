@@ -2,7 +2,7 @@
 
 Este es el repositorio del *Grupo 11*, cuyos integrantes son:
 
-* Bastián Ortega - Rol
+* Bastián Ortega - 202173547-k
 * Camilo Díaz - 202004543-7
 * José Zapata - 202073562-k
 * **Tutor**: Ignacio Muñoz
