@@ -9,7 +9,7 @@ Este es el repositorio del *Grupo 11*, cuyos integrantes son:
 
 ## Wiki
 
-Puede acceder al gitlab de nuestro proyecto mediante el siguiente [enlace]([https://gitlab.inf.utfsm.cl/](https://gitlab.inf.utfsm.cl/camilo.diaz/inf236-2023-2-grupo11))
+Puede acceder al gitlab de nuestro proyecto mediante el siguiente [enlace]([https://gitlab.inf.utfsm.cl/](https://gitlab.inf.utfsm.cl/camilo.diaz/inf236-2023-2-grupo11)
 
 
 ## Descripción del Proyecto
