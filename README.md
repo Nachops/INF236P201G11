@@ -13,8 +13,6 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.
 
 ## Videos
 
-> Reemplazar con los enlaces correspondientes
-
 * [Descripción del Proyecto]([https://www.youtube.com](https://aula.usm.cl/pluginfile.php/5134407/mod_resource/content/1/Requisito%20Proyecto%20v1.0%20-%20AHB.pdf))
 * [Video presentación avance 1]([https://www.youtube.com/](https://youtu.be/mpJr0DJvu7A))
 
