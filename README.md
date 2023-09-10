@@ -1,17 +1,13 @@
-> Notar que **X** corresponde al número del grupo asignado.
+# Grupo 11
 
-# Grupo x
+Este es el repositorio del *Grupo 11*, cuyos integrantes son:
 
-Este es el repositorio del *Grupo X*, cuyos integrantes son:
-
-* Integrante 1 - Rol
-* Integrante 2 - Rol
-* Integrante 3 - Rol
-* **Tutor**: Nombre Tutor
+* Bastián Ortega - Rol
+* Camilo Díaz - 202004543-7
+* José Zapata - Rol
+* **Tutor**: Ignacio Muñoz
 
 ## Wiki
-
-> Obtener enlace desde el home de la wiki del repo.
 
 Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.cl/)
 
@@ -19,9 +15,9 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.
 
 > Reemplazar con los enlaces correspondientes
 
-* [Video presentación cliente](https://www.youtube.com)
-* [Video presentación avance 1](https://www.youtube.com/)
-* Etc ...
+* [Descripción del Proyecto]([https://www.youtube.com](https://aula.usm.cl/pluginfile.php/5134407/mod_resource/content/1/Requisito%20Proyecto%20v1.0%20-%20AHB.pdf))
+* [Video presentación avance 1]([https://www.youtube.com/](https://youtu.be/mpJr0DJvu7A))
+
 
 ## Aspectos técnicos relevantes
 
