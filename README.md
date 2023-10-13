@@ -9,7 +9,7 @@ Este es el repositorio del *Grupo 11*, cuyos integrantes son:
 
 ## Wiki
 
-[Puede acceder al gitlab de nuestro proyecto mediante el siguiente enlace](https://github.com/Nachops/INF236P201G11/wiki)
+[Puede acceder a la wiki de nuestro proyecto mediante el siguiente enlace](https://github.com/Nachops/INF236P201G11/wiki)
 
 ## Descripción del Proyecto
 
