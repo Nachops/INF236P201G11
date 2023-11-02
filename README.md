@@ -26,6 +26,8 @@ Este es el repositorio del *Grupo 11*, cuyos integrantes son:
 - [Lineamiento Entrega 2 (PDF)](https://aula.usm.cl/pluginfile.php/5150922/mod_resource/content/1/Lineamiento%20Entrega%202%20v1.0.pdf)
 - [Lineamiento Entrega 3 (PDF)](https://aula.usm.cl/pluginfile.php/5166283/mod_resource/content/1/Lineamiento%20Entrega%203.pdf)
 - [Lineamiento Entrega 4 (PDF)](https://aula.usm.cl/pluginfile.php/5203178/mod_resource/content/1/Lineamiento%20Entrega%204.pdf)
+- [Lineamiento Entrega 5 (PDF)]
+(https://aula.usm.cl/pluginfile.php/5213594/mod_resource/content/1/Lineamiento%20Entrega%205.pdf)
     
 
 
