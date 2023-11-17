@@ -19,7 +19,7 @@ Este es el repositorio del *Grupo 11*, cuyos integrantes son:
 
 - [Video presentación avance 1 (YouTube)](https://youtu.be/mpJr0DJvu7A)
 - [Video presentación avance 4 (YouTube)](https://youtu.be/j8C-K3gZm2g)
-- [Vídeo presentación resultado final (Youtube)](https://youtu.be/N8g276_H5wY)
+- [Vídeo presentación resultado final (Youtube)]()
 
 ## Lineamientos Entregas
 
